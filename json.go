@@ -15,7 +15,7 @@ func main() {
 			log.Fatalln(err)
 		}
 		log.Println(string(d))
-		c.String(http.StatusOK,"ok")
+		c.String(http.StatusOK, "ok")
 	})
 
 	route.Run(":8080")
