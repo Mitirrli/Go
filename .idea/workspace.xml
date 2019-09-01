@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="138f4bc7-2197-4216-8b4b-e858770bcaf5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../layui/layui/css/me.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../layui/layui/js/me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../mitirrli/go_api/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/basic/common/common.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/basic/common/common.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/basic/config/db2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/basic/config/db2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/basic/controllers/ListController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/basic/controllers/ListController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/basic/exceptions/coreException.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/basic/exceptions/coreException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/basic/models/Lists.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/basic/models/Lists.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/basic/models/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/basic/models/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/basic/traits/DingTalkTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/basic/traits/DingTalkTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/basic/traits/MailTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/basic/traits/MailTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/basic/traits/ReturnTrait.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/basic/traits/ReturnTrait.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/ArticleController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/ArticleController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/EasyFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/EasyFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/EatController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/EatController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/FactoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/FactoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/SleepController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/SleepController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/factory.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/app/Http/Controllers/factory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/app/Http/Middleware/Response.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/app/Http/Middleware/Response.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/app/Http/Models/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/app/Http/Models/Article.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/app/Http/Models/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/app/Http/Models/Order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/blog/bootstrap/core.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/blog/bootstrap/core.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/spider.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/spider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/js/article.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/js/article.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/js/common.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/js/common.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/js/hm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/js/hm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/js/live2d.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/js/live2d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../GP/spider/vendor/js/next.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../GP/spider/vendor/js/next.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../QJ/project/src/app/hero-detail/hero-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../QJ/project/src/app/hero-detail/hero-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../QJ/project/src/app/mock-heroes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../QJ/project/src/app/mock-heroes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../blog/app/Http/Controllers/Action/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../framework/.idea/composerJson.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../greencampus/themes/Repairhl/RepairhlOrder/rework.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hampster/application/controllers/WeChatController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../hampster/application/controllers/WeChatController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/.idea/composerJson.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Article.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Api/ListsController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Api/OrderController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Api/RegisterSetController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Api/ServiceController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Api/TicketController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/ArticleController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Controllers/Home/WelcomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Factory/ListsFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Factory/OrderFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Factory/RegisterSetFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Factory/ServiceFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Factory/SignFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Factory/TicketFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Service/OrderService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Http/Service/OssService.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/model/Lists.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/model/Message.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/model/Order.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/model/RegisterSet.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/model/Service.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/model/Set.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/model/Sign.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/model/Ticket.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/app/model/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/factories/ListFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/factories/RegisterSetFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/factories/SignFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_03_124921_adds_api_token_to_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_03_125354_adds_api_token_to_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_03_125823_adds_api_token_to_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_03_145947_create_articles_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_04_021908_create_order_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_04_022233_create_set_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_04_023805_create_service_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_04_025436_create_ticket_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_04_053254_create_sign_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_05_053518_create_wechat_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_05_054840_create_wechat_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_06_091649_create_fee_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_07_173414_create_register_set_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_07_180404_create_register_set_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_07_183405_create_register_set_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_08_112948_create_order_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_08_125943_create_order_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_08_130507_create_order_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/migrations/2019_03_08_133025_create_wechat_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/seeds/ArticlesTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/seeds/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/seeds/LinksTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/seeds/MeetingListSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/seeds/RegisterSetTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/seeds/SignTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/database/seeds/UsersTableSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/public/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/sass/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../meeting/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/application/controllers/BaseController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/application/controllers/HomeController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/application/models/Article.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/application/views/home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/core/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/core/common/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/lib/TXApp.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../myFramework/lib/TXApp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/lib/TXAutoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../myFramework/lib/TXAutoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/lib/config/TXConfig.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../myFramework/lib/config/TXConfig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/routes/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework/web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../myFramework/web/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework2/app/controllers/HelloWorld.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework2/app/controllers/TestController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework2/core/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework2/core/di.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework2/core/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework2/core/path.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework2/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../myFramework2/routes/route.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Exceptions/Handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Controllers/DingReportController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Controllers/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Http/Controllers/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Logic/LoginLogic.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Http/Logic/LoginLogic.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Logic/Token.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Http/Logic/Token.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Middleware/Cors.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Http/Middleware/Cors.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Middleware/ExampleMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Middleware/Jwt.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Http/Middleware/Jwt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Middleware/Response.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Http/Middleware/Response.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Http/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/Http/Validate/LoginValidate.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/Http/Validate/LoginValidate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/app/common.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/app/common.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/bootstrap/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/storage/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/storage/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/storage/framework/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/storage/framework/cache/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/storage/framework/cache/data/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/storage/framework/views/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/storage/framework/views/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/storage/logs/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../team/storage/logs/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../team/状态码.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../weather/src/Exceptions/Exception.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../weather/src/Exceptions/Exception.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../weather/src/Exceptions/HttpException.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../weather/src/Exceptions/HttpException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../weather/src/Exceptions/InvalidArgumentException.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../weather/src/Exceptions/InvalidArgumentException.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../weather/tests/WeatherTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../weather/tests/WeatherTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../weather/weather-test/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../weather/weather-test/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../zd/.idea/laravel-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../zd/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../zd/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/go.mod">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.12.1/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/goApi.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="goApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goApi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="goApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GOPATH &lt;goApi&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="goApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GOPATH &lt;goApi&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="goApi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GOPATH &lt;goApi&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="github.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goApi" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
