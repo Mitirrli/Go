@@ -21,9 +21,9 @@ func main() {
 		c.String(http.StatusOK, message)
 	})
 
-	v1 := route.Group("/v1")
+	v1 := route.Group("/v1", middleware1)
 	{
-		v1.GET("login2", middleware1, handler)
+		v1.GET("login2", handler)
 	}
 	route.Run(":8008")
 }
