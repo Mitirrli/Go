@@ -20,5 +20,13 @@ func main() {
 		c.String(http.StatusOK, message)
 	})
 
+	v1 := route.Group("/v1")
+	{
+		v1.GET("login", login)
+	}
 	route.Run(":8008")
+}
+
+func login(c *gin.Context) {
+	c.String(http.StatusOK, "yes")
 }
